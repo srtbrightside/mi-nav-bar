@@ -46,5 +46,13 @@ li a:hover, .dropdown:hover, .dropbtn:hover{
 	text-align: center;
 }
 
+.dropdown-content a:hover{
+	background-color: #FFE900;
+}
+.dropdown:hover .dropdown-content {
+	display: block;
+}
 
 
+
+}
